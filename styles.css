@@ -2,6 +2,5 @@
 /* Your CSS Code here. */
 table, th, td {
 	border: 1px solid;
-	border-collapse: collapse;
 	padding: 0px 10px;
 }
